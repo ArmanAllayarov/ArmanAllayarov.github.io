@@ -1,0 +1,21 @@
+body {
+    color: darkblue;
+    font-size: small;
+    text-align: left;
+}
+
+h1 {
+    color: red;
+    font-size: large;
+    text-align: center;
+}
+
+h2 {
+    color: royalblue;
+    font-size: medium;
+    text-align: center;
+}
+
+li {
+    color: black;
+}
